@@ -1,0 +1,6 @@
+[submodule "part2/child3"]
+	path = part2/child3
+	url = https://github.com/chalstrick/child3.git
+[submodule "part2/child4"]
+	path = part2/child4
+	url = https://github.com/chalstrick/child4.git
